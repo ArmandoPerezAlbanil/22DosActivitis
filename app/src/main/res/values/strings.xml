@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">2.2DosActivitis</string>
+
+    <string name="activity2_name">Second Activity</string>
+    <string name="Encabezado">Mensaje recibido</string>
+    <string name="btn_main">Enviar</string>
+    <string name="EdTexMain">Escribe tu mensaje aqui</string>
+    <string name="btn2">Respuesta</string>
+    <string name="EdTex2">Escribe tu respuesta aqui</string>
+    <string name="RespuestaEncabezado">Respuesta recibida</string>
+
+</resources>
